@@ -1,10 +1,10 @@
-# Customer Segmentation using PCA and K-Means
+# Project 3: Customer Segmentation using PCA and K-Means
 
-## Project Overview
-This project applies Unsupervised Machine Learning techniques to segment customers into meaningful groups.
+## Objective
+Segment customers into meaningful groups using Unsupervised Learning.
 
 ## Dataset
-Customer Personality Analysis Dataset (Marketing Campaign Dataset)
+Marketing Campaign Dataset
 
 ## Technologies Used
 - Python
@@ -14,34 +14,30 @@ Customer Personality Analysis Dataset (Marketing Campaign Dataset)
 - Seaborn
 - Scikit-Learn
 
-## Steps Performed
+## Workflow
 1. Data Cleaning
 2. Missing Value Handling
-3. Feature Encoding
-4. Standard Scaling
-5. Principal Component Analysis (PCA)
+3. Encoding
+4. Feature Scaling
+5. PCA
 6. Elbow Method
 7. K-Means Clustering
-8. Silhouette Score Evaluation
-9. Customer Segmentation Visualization
+8. Silhouette Score
+9. Cluster Visualization
 
 ## Results
 - Optimal Number of Clusters: 4
 - Silhouette Score: 0.4121
 
-## Customer Personas
+## Visualizations
+### Elbow Method
+![Elbow Method](Elbow%20Method.png)
 
-### Cluster 0
-High Value Customers
+### Silhouette Score
+![Silhouette Score](Silhouette%20Score.png)
 
-### Cluster 1
-Regular Customers
-
-### Cluster 2
-Budget Customers
-
-### Cluster 3
-Digital Customers
+### Customer Segmentation
+![Customer Segmentation](Customer%20Segmentation%20using%20K-Means.png)
 
 ## Conclusion
-Customer segmentation helps businesses understand customer behavior and improve marketing strategies.
+Customer segmentation helps businesses identify different customer groups and improve marketing strategies.
