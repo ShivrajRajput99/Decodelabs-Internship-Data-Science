@@ -5,6 +5,8 @@ Build a machine learning model to classify movie reviews as Positive or Negative
 
 ## Dataset
 IMDb Dataset (50,000 movie reviews)
+Download from:
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 ## Technologies Used
 - Python
