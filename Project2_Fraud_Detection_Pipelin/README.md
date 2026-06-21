@@ -29,5 +29,10 @@ Build and evaluate machine learning models to identify fraudulent transactions i
 - Imbalanced-Learn
 - Matplotlib
 
+## Dataset
+
+The dataset used for this project is the Credit Card Fraud Detection Dataset.
+Due to GitHub file size limitations, the dataset file is not included in this repository.
+
 ## Author
 Shivrajsinh Rajput
